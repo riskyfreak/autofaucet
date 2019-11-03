@@ -1,3 +1,4 @@
 https://doge.autofaucet.site/faucet.php?&address=DEMEym8tWSuBfo9981WBgXi3ZTYrzh1pRy&currency=DOGE&key=c3e27ea3d14dbf9b02a60f715c3f87e2&sl=exRZG1hMTlO
 https://ltc.autosmdeisy.ltd/faucet.php?&address=LXHAo8YFRiJ9LBtqsSahfNFaR8sqcWtnqZ&currency=LTC&r=LazzKCkcyXtHVhRMtPtuyrLEcCqCTyd5Q6&rc=LTC&key=f13bd5898692a7782aac7e8d08ec73ba&sl=uyhxCRw6uJC
 https://eth.autosmdeisy.ltd/faucet.php?&address=0x8469ebf14fd7b9cc780301c31b4bcc81179d1aa7&currency=ETH&r=0xD402bB542946b92a660D7C8df019486BC1795a72&rc=ETH&key=73998e84ddae9b414f750a848c639953&sl=ajqSBJHgnv
+https://autoclaim.in/auto-claim/2/ETH/0x8469ebf14fd7b9cc780301c31b4bcc81179d1aa7/996d90ad48bf252e3cc337a521c8ec37
