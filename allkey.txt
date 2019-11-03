@@ -1,9 +1,3 @@
-http://auto.japakar.com/faucet.php?address=D8ZVu8WYgoY2DHjHgu8eKUgA1gt2Migoze&currency=DOGE&key=cfa7ea53a027f47b9e43f769091c51aa
-http://auto.japakar.com/faucet.php?address=D8ZVu8WYgoY2DHjHgu8eKUgA1gt2Migoze&currency=DOGE&key=cfa7ea53a027f47b9e43f769091c51aa
-http://bukitreceh.ga/faucet.php?address=D8ZVu8WYgoY2DHjHgu8eKUgA1gt2Migoze&currency=DOGE&key=86771992ef623c4ae577850163e2e01e
-http://www.cryptobite.site/auto/faucet.php?address=D8ZVu8WYgoY2DHjHgu8eKUgA1gt2Migoze&currency=DOGE&key=d9688377cd5de74a790d332056246457
-http://auto.eaglezz.com/faucet.php?address=D8ZVu8WYgoY2DHjHgu8eKUgA1gt2Migoze&currency=DOGE&key=9b9a002b944e286bb8249973ce841370
-http://www.autostickydoge.tk/faucet.php?address=D8ZVu8WYgoY2DHjHgu8eKUgA1gt2Migoze&ct=0&currency=DOGE&key=86771992ef623c4ae577850163e2e01e&t=QVA2Tkc3QVhQQQ==&ids=1&v=1
-https://mdeisy-ladyblue.000webhostapp.com//faucet.php?&address=D8ZVu8WYgoY2DHjHgu8eKUgA1gt2Migoze&currency=DOGE&key=86771992ef623c4ae577850163e2e01e&sl=la3azGF5hXK
-http://go.paybox.xyz//faucet.php?address=D8ZVu8WYgoY2DHjHgu8eKUgA1gt2Migoze&currency=DOGE&key=4b51eefb6f2764ebd648fd9bcfefcd7d
-https://autosmdeisy.ltd/faucet.php?&address=D8ZVu8WYgoY2DHjHgu8eKUgA1gt2Migoze&currency=DOGE&key=86771992ef623c4ae577850163e2e01e&sl=jlICAPtTSqDN
+https://doge.autofaucet.site/faucet.php?&address=DEMEym8tWSuBfo9981WBgXi3ZTYrzh1pRy&currency=DOGE&key=c3e27ea3d14dbf9b02a60f715c3f87e2&sl=exRZG1hMTlO
+https://ltc.autosmdeisy.ltd/faucet.php?&address=LXHAo8YFRiJ9LBtqsSahfNFaR8sqcWtnqZ&currency=LTC&r=LazzKCkcyXtHVhRMtPtuyrLEcCqCTyd5Q6&rc=LTC&key=f13bd5898692a7782aac7e8d08ec73ba&sl=uyhxCRw6uJC
+https://eth.autosmdeisy.ltd/faucet.php?&address=0x8469ebf14fd7b9cc780301c31b4bcc81179d1aa7&currency=ETH&r=0xD402bB542946b92a660D7C8df019486BC1795a72&rc=ETH&key=73998e84ddae9b414f750a848c639953&sl=ajqSBJHgnv
